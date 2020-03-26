@@ -7,7 +7,7 @@ export default {
             "type": "string",
             "name": "title",
             "title": "Title",
-            "description": "The title of the post.",
+            "description": "The title of the product.",
             "validation": Rule => Rule.required()
         },
         {

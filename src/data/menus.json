@@ -1,0 +1,11 @@
+{
+    "main": [
+        {
+            "identifier": "platform-section",
+            "title": "Platform",
+            "url": "/#platform",
+            "weight": 2
+        }
+    ],
+    "secondary": []
+}

@@ -7,7 +7,7 @@ import {getPages, Link, safePrefix} from '../utils';
 
 export default class Blog extends React.Component {
     render() {
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/product'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <div className="outer">
@@ -25,13 +25,8 @@ export default class Blog extends React.Component {
                         <header className="post-header">
                           <h2 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
                         </header>
-                        <div className="post-excerpt">
-                          <p>{_.get(post, 'frontmatter.excerpt')}</p>
-                        </div>
-                        <footer className="post-meta">
-                          <time className="published"
-                            dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
-                        </footer>
+                        
+                      
                       </div>
                     </div>
                   </article>

@@ -1,0 +1,29 @@
+{
+    "footer": {
+        "content": "&copy; Conectomed Ltd - Company No.12534393",
+        "has_nav": false,
+        "has_social": false,
+        "has_subscribe": false,
+        "links": [
+            {
+                "new_window": true,
+                "text": "Made with Stackbit",
+                "url": "https://www.stackbit.com"
+            }
+        ],
+        "logo_img": "https://cdn.sanity.io/images/bai2wp58/production/1f32e95375b9dd51d31060dddc218802ac6612ae-348x77.svg",
+        "nav_title": "Company",
+        "social_title": "Company",
+        "subscribe_content": "Stay up to date with our latest developments."
+    },
+    "header": {
+        "has_nav": true,
+        "logo_img": "https://cdn.sanity.io/images/bai2wp58/production/017f5f5cc4cc1c38226dc4bd2690f3e72b2f8d0e-348x77.svg",
+        "menu": {
+            "actions": []
+        },
+        "title": "ConectoMed"
+    },
+    "palette": "blue",
+    "title": "ConectoMed"
+}

@@ -63,9 +63,9 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    -webkit-flex: 0 0 33.333%;
-    -ms-flex: 0 0 33.333%;
-    flex: 0 0 33.333%;
+    -webkit-flex: 0 0 25%;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
@@ -140,12 +140,12 @@
   }
 
   .post-header {
-    margin-bottom: 0.83333rem;
-    text-align: left;
+    margin-bottom: 0rem;
+    text-align: center;
   }
 
   .post-title {
-    font-size: 1.33333rem;
+    font-size: 1rem;
     margin: 0;
   }
 
