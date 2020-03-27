@@ -9,6 +9,3 @@ title: Sterile Protective Gowns
 ---
 ## Availability: 
 1,000,000
-
-## Price (excl. commission):
-RMB 120 - 150

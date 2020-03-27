@@ -15,6 +15,3 @@ Currently only test approved by FDA; virus RNA tests whether a patient is infect
 
 ## Availability:
 850,000
-
-## Price (excl. commission): 
-USD 30.00

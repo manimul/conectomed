@@ -9,6 +9,3 @@ title: Mobile Thermometry Disinfection Channels
 ---
 ## Availability: 
 10,000,000
-
-## Price (excl. commission): 
-USD 9,500 - 12,500

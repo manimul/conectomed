@@ -9,6 +9,3 @@ title: 3-ply Surgical Masks SUMBOW
 ---
 ## Availability:
 10,000,000
-
-## Price (ex commision):
-USD 0.50

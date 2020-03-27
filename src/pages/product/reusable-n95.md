@@ -12,6 +12,3 @@ ECM Certificate of Compliance
 
 ## Availability:  
 5,000,000
-
-## Price (excl. commission):
-USD 3.50

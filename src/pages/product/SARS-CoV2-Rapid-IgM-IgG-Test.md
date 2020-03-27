@@ -15,6 +15,3 @@ Rapid IgG-IgM Test (currently approved in South Korea, China and Europe; tests w
 
 ## Availability:
 5,000,000
-
-## Price (excl. commission):
-EUR 12.00

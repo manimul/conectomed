@@ -1,3 +1,12 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
+
+[[
+redirects
+]]
+  from = "/product-range"
+  to = "https://www.conectomed.com/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
