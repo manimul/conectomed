@@ -1,0 +1,8 @@
+@tailwind base;
+ol, ul {
+    list-style: disc;
+}
+
+@tailwind components;
+
+@tailwind utilities;

@@ -11,6 +11,12 @@
   }
 }
 
+#product-categories{
+  .block-title {
+    font-size: 1.44444rem;
+  }
+}
+
 .block-header {
   margin-bottom: 2rem;
   text-align: center;
@@ -48,7 +54,7 @@
     text-align: center;
   }
 
-  .underline:after {
+  .divider:after {
     display: none;
   }
 }
@@ -82,7 +88,7 @@
         max-width: 555px;
         text-align: center;
 
-        .underline {
+        .divider {
           &:after {
             display: none;
           }
@@ -103,7 +109,7 @@
       flex: 5;
     }
     
-    .underline:after {
+    .divider:after {
       display: block;
     }
 
@@ -551,7 +557,7 @@
       color: inherit;
     }
 
-    .underline:after {
+    .divider:after {
       border-color: currentColor;
     }
   }
@@ -561,3 +567,6 @@
     padding-top: 0;
   }
 }
+
+/* Team */
+

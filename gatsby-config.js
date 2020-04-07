@@ -3,6 +3,7 @@ module.exports = {
     siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
+        'gatsby-plugin-postcss',
         `gatsby-source-data`,
         {
             resolve: `gatsby-source-filesystem`,

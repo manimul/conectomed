@@ -43,7 +43,7 @@
     color: _palette(primary);
   }
 
-  .underline {
+  .divider {
     &:after {
       border-color: _palette(accent-purple);
     }
@@ -122,7 +122,7 @@
     color: _palette(primary);
   }
 
-  .underline {
+  .divider {
     &:after {
       border-color: _palette(accent-green);
     }
@@ -201,7 +201,7 @@
     color: _palette(primary);
   }
 
-  .underline {
+  .divider {
     &:after {
       border-color: _palette(accent-orange);
     }
